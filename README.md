@@ -1,7 +1,7 @@
 # Mysvm
 
 #### 介绍
-机器学习课设备份
+机器学习课设
 
 #### 使用说明
 1. Visual Studio新建空项目，将数据集和main.cpp拷贝到项目根目录（注意两个文件在同一级目录中），在项目资源管理器中添加源文件main.cpp，添加资源文件agaricus-lepiota.data
